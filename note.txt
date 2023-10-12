@@ -1,2 +1,13 @@
 colors: 
 #F5007C
+
+text:
+
+# hero section 
+H!!
+Saya Samantha
+Saya adalah seorang traveller,Saya suka berbagi tips dan trik untuk para traveller
+
+# petualan section
+Pertualangan Terbaru Saya
+
